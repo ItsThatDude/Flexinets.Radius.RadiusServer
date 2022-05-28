@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net471</TargetFrameworks>
+	  <TargetFramework>net5.0</TargetFramework>
     <Version>2.0.0</Version>
     <PackageProjectUrl>https://github.com/vforteli/RadiusServer</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/vforteli/RadiusServer/blob/master/LICENSE</PackageLicenseUrl>
